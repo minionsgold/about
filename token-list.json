@@ -1,0 +1,42 @@
+{
+"name": "MNI",
+ 
+"logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+
+"keywords": [
+ "MNI",
+ 
+"MNI",
+ 
+"yield"
+],
+ 
+"timestamp": "2021-04-26T01:40:34.305Z",
+ 
+"tokens": [
+      
+{
+
+"chainId": 1,
+ 
+"address": "0x000000000000000000000000000000",
+ 
+"name": "MNI",
+ 
+"symbol": "MNI",
+ 
+"decimals": 18,
+"logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+}
+
+],
+    
+"version": {
+
+"major": 0,
+
+"minor": 0,
+"patch": 0
+}
+
+} 
