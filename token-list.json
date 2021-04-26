@@ -1,42 +1,25 @@
 {
-"name": "MNI",
- 
-"logoURI": "https://www.xxxxxxxxxxxx/logo.png",
-
-"keywords": [
- "MNI",
- 
-"MNI",
- 
-"yield"
-],
- 
-"timestamp": "2021-04-26T01:40:34.305Z",
- 
-"tokens": [
-      
-{
-
-"chainId": 1,
- 
-"address": "0x000000000000000000000000000000",
- 
-"name": "MNI",
- 
-"symbol": "MNI",
- 
-"decimals": 18,
-"logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+  "name": "MNI",
+  "logoURI": "https://raw.githubusercontent.com/minionsgold/about/main/LOGO.png",
+  "keywords": [
+    "MNI",
+    "MNI",
+    "DEFI"
+  ],
+  "timestamp": "2021-04-26T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x975e2b66ea101e1116b3dc95db2fc79b68a7f868",
+      "name": "MNI",
+      "symbol": "MNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/minionsgold/about/main/LOGO.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
 }
-
-],
-    
-"version": {
-
-"major": 0,
-
-"minor": 0,
-"patch": 0
-}
-
-} 
